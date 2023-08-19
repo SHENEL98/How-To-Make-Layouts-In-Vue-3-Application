@@ -1,4 +1,9 @@
-# multi_layout_1
+# How to make a multi-layout vue 3 Application
+
+## Documentation 
+```
+https://docs.google.com/document/d/1gbPNTsln2THmsvQYu7lnXGnY5Bja2-zhYR1QSFxv5m0/edit?usp=sharing
+```
 
 ## Project setup
 ```

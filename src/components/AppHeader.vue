@@ -14,7 +14,6 @@
         <li class="nav-item">
             <router-link :to="{name:'HelloWorld'}" class="nav-link" aria-current="page" href="#">HelloWorld</router-link>
         </li>
-       
       </ul>
     </div>
   </div>
